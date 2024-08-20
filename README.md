@@ -4,4 +4,5 @@ This dataset provides radiomics features extracted from a total 53 organs and an
 
 This dataset can be used under the License CC-BY-NC-ND.
 
-If you use this dataset, please cite:  Kapetanou E, Malamas S, Leventis D, Karantanas AH, Klontzas ME, Developing a Radiomics Atlas Dataset of Normal Abdominal and Pelvic Computed Tomography (RADAPT), Journal of Imaging Informatics in Medicine, 2024, doi: 10.1007/s10278-024-01028-7
+If you use this dataset, please cite:
+Kapetanou, E., Malamas, S., Leventis, D.,  Karantanas, A.H., Klontzas, M.E., et al. Developing a Radiomics Atlas Dataset of normal Abdominal and Pelvic computed Tomography (RADAPT). J Digit Imaging. Inform. med. 37, 1273–1281 (2024). https://doi.org/10.1007/s10278-024-01028-7 
